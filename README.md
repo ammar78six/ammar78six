@@ -1,5 +1,3 @@
-👋welcome 
+👋Welcome 
 
-I'm a Researcher!
-
-I’m currently learning to code
+I'm a Researcher!!! and currently learning to code
