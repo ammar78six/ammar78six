@@ -2,7 +2,7 @@
 <h3 align="center">A superhero with supervillain tendencies.</h3>
 
 - 📫 How to reach me **ammartoonice@gmail.com**
-- +923228090287---WhatsApp
+- +923468766122---WhatsApp(Name is tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
