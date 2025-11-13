@@ -38,19 +38,19 @@
     TECH MATRIX — FULL DOMINATION
   </h3>
 
-  <!-- SKILLS GRID: SAFE HTML IN TABLE (GUARANTEED RENDER) -->
+  <!-- SKILLS GRID: FIXED URLs + BIGGER SIZE (80px) -->
   <table align="center" style="border:none;border-collapse:collapse;">
     <tr>
-      <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><img src="https://img.shields.io/badge/MERN-00ff41?style=for-the-badge&logo=react&logoColor=white&labelColor=004d00" /></td>
@@ -62,13 +62,13 @@
       <td align="center" colspan="4"><img src="https://img.shields.io/badge/MEVN-00ff41?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=004d00" /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><img src="https://img.shields.io/badge/AI-00ff41?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=004d00" /></td>
@@ -77,10 +77,10 @@
       <td align="center" colspan="4"><img src="https://img.shields.io/badge/Blockchain-00ff41?style=for-the-badge&logo=blockchain-com&logoColor=white&labelColor=004d00" /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="58" height="58" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><img src="https://img.shields.io/badge/Graphic_Design-00ff41?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=004d00" /></td>
@@ -94,27 +94,27 @@
 
   <table align="center" style="border:none;border-collapse:collapse;">
     <tr>
-      <td align="center"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.mathworks.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
-      <td align="center"><a href="https://tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="52" height="52" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
+      <td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" height="80" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a></td>
     </tr>
   </table>
 </div>
