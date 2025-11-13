@@ -38,6 +38,12 @@
 &nbsp;&nbsp;<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
+
+&nbsp;&nbsp;<a href="https://www.djangoproject.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
+
+&nbsp;&nbsp;<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
+
+&nbsp;&nbsp;<a href="https://emberjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 </p>
 <p align="center" style="background:#001a00;padding:18px 0;">
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/MERN-00ff41?style=for-the-badge&logo=react&logoColor=white&labelColor=004d00" />
