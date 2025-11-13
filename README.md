@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb1d1a3-4fc2-4e74-9f3b-cfc4e75e3d99.gif" width="100%"/>
 </div>
 
-<!-- JUMPING MATRIX TEXT -->
-<div align="center" style="background:#001a00;color:#00ff41;padding:40px 0;font-family:'Courier New',monospace;">
-  <h1 style="color:#00ff41;text-shadow:0 0 15px #00ff41,0 0 30px #00ff41;font-size:52px;letter-spacing:4px;margin:0;animation:jump 1.5s infinite;">
+<!-- HEADER + ANIMATED TEXT -->
+<div align="center" style="background:#001a00;color:#00ff41;padding:45px 0;font-family:'Courier New',monospace;">
+  <h1 style="color:#00ff41;text-shadow:0 0 15px #00ff41,0 0 30px #00ff41;font-size:54px;letter-spacing:5px;margin:0;animation:jump 1.5s infinite;">
     HI, I'M AMMAR
   </h1>
   <h3 style="color:#00ff41;font-weight:bold;text-shadow:0 0 10px #00ff41;margin:15px 0;animation:fadeIn 2s ease-in-out;">
@@ -16,6 +16,7 @@
   <img src="https://media.giphy.com/media/l44QzsOLXxcrigdgI/giphy.gif" width="360" style="border:4px solid #00ff41;border-radius:20px;box-shadow:0 0 35px #00ff41;margin:30px 0;" />
 </div>
 
+<!-- ANIMATIONS (HIDDEN, WORKS ON GITHUB) -->
 <style>
   @keyframes jump {
     0%, 100% { transform: translateY(0); }
@@ -27,15 +28,17 @@
   }
 </style>
 
+<!-- CONTACT -->
 <div align="center" style="background:#001a00;color:white;padding:30px 0;border-bottom:2px dashed #00ff41;">
   <h3 style="color:#00ff41;text-shadow:0 0 10px #00ff41;margin:0;font-size:26px;">CONTACT</h3>
   <p style="margin:18px 0;font-size:19px;">
-    <code style="background:#003300;color:#00ff41;padding:10px 20px;border:2px solid #00ff41;border-radius:10px;">ammartoonice@gmail.com</code>
+    <code style="background:#003300;color:#00ff41;padding:10px 22px;border:2px solid #00ff41;border-radius:10px;">ammartoonice@gmail.com</code>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <code style="background:#003300;color:#00ff41;padding:10px 20px;border:2px solid #00ff41;border-radius:10px;">+923468766122 (WhatsApp)</code>
+    <code style="background:#003300;color:#00ff41;padding:10px 22px;border:2px solid #00ff41;border-radius:10px;">+923468766122 (WhatsApp)</code>
   </p>
 </div>
 
+<!-- CONNECT -->
 <div align="center" style="background:#001a00;color:white;padding:25px 0;">
   <h3 style="color:#00ff41;text-shadow:0 0 10px #00ff41;margin:0;font-size:26px;">CONNECT</h3>
   <p style="margin:18px 0;">
@@ -45,73 +48,76 @@
   </p>
 </div>
 
-<!-- OPEN, CLEAR, NO TABLE — FLEX GRID -->
-<div align="center" style="background:#001a00;color:white;padding:50px 0;">
-  <h3 style="color:#00ff41;text-shadow:0 0 15px #00ff41;font-size:34px;letter-spacing:3px;margin-bottom:40px;">
+<!-- TECH MATRIX — CLEAN, OPEN, NO TABLE -->
+<div align="center" style="background:#001a00;color:white;padding:55px 0;">
+  <h3 style="color:#00ff41;text-shadow:0 0 15px #00ff41;font-size:36px;letter-spacing:3px;margin-bottom:45px;">
     TECH MATRIX — FULL DOMINATION
   </h3>
 
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:25px;max-width:1200px;margin:0 auto;">
+  <!-- ICONS GRID — SAFE, CLEAN, FLEX -->
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:28px;max-width:1300px;margin:0 auto;">
 
-    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
 
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
 
     <img src="https://img.shields.io/badge/MERN-00ff41?style=for-the-badge&logo=react&logoColor=white&labelColor=004d00" />
     <img src="https://img.shields.io/badge/MEAN-00ff41?style=for-the-badge&logo=angular&logoColor=white&labelColor=004d00" />
     <img src="https://img.shields.io/badge/MEVN-00ff41?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=004d00" />
 
-    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
 
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
 
     <img src="https://img.shields.io/badge/AI-00ff41?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=004d00" />
     <img src="https://img.shields.io/badge/Blockchain-00ff41?style=for-the-badge&logo=blockchain-com&logoColor=white&labelColor=004d00" />
 
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="95" height="95" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
 
     <img src="https://img.shields.io/badge/Graphic_Design-00ff41?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=004d00" />
     <img src="https://img.shields.io/badge/Digital_Marketing-00ff41?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=004d00" />
 
   </div>
 
-  <hr style="border:2px dashed #00ff41;margin:50px 0;width:85%;">
+  <hr style="border:2px dashed #00ff41;margin:55px 0;width:90%;">
 
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;max-width:1200px;margin:0 auto;">
-    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="85" height="85" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+  <!-- ORIGINAL TOOLS -->
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:22px;max-width:1300px;margin:0 auto;">
+    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90" height="90" style="filter:brightness(0)invert(1)hue-rotate(90deg);"/></a>
   </div>
 </div>
 
+<!-- FOOTER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb1d1a3-4fc2-4e74-9f3b-cfc4e75e3d99.gif" width="100%"/>
   <br><br>
-  <p style="color:#00ff41;font-family:'Courier New';font-weight:bold;font-size:24px;text-shadow:0 0 20px #00ff41;letter-spacing:4px;">
+  <p style="color:#00ff41;font-family:'Courier New';font-weight:bold;font-size:26px;text-shadow:0 0 20px #00ff41;letter-spacing:5px;">
     SYSTEM ONLINE • CHAOS ACTIVE • DOMINATION IMMINENT
   </p>
 </div>
