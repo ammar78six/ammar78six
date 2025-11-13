@@ -57,6 +57,7 @@
 </p>
 <p align="center" style="background:#001a00;padding:30px 0;line-height:4.0;">
 
+&nbsp;&nbsp;<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://www.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
