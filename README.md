@@ -2,16 +2,7 @@
 &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb1d1a3-4fc2-4e74-9f3b-cfc4e75e3d99.gif" width="100%"/>
 </div>
 <!-- HIDDEN ANIMATIONS — NEVER SHOWS ON GITHUB -->
-<style scoped>
-&nbsp;&nbsp;@keyframes jump {
-&nbsp;&nbsp;&nbsp;&nbsp;0%, 100% { transform: translateY(0); }
-&nbsp;&nbsp;&nbsp;&nbsp;50% { transform: translateY(-25px); }
-&nbsp;&nbsp;}
-&nbsp;&nbsp;@keyframes fadeIn {
-&nbsp;&nbsp;&nbsp;&nbsp;0% { opacity: 0; transform: translateY(15px); }
-&nbsp;&nbsp;&nbsp;&nbsp;100% { opacity: 1; transform: translateY(0); }
-&nbsp;&nbsp;}
-</style>
+
 <div align="center" style="background:#001a00;color:#00ff41;padding:60px 0;font-family:'Courier New',monospace;">
 &nbsp;&nbsp;<h1 style="color:#00ff41;text-shadow:0 0 20px #00ff41,0 0 40px #00ff41;font-size:62px;letter-spacing:8px;margin:0;animation:jump 1.6s infinite;">
 &nbsp;&nbsp;&nbsp;&nbsp;HI, I'M AMMAR
@@ -54,7 +45,7 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/MEVN-00ff41?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=004d00" />
 </p>
 <p align="center" style="background:#001a00;padding:30px 0;line-height:4.0;">
-&nbsp;&nbsp;<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
+
 &nbsp;&nbsp;<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
@@ -75,8 +66,7 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Digital_Marketing-00ff41?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=004d00" />
 </p>
 <hr style="border:5px dashed #00ff41;margin:80px 0;width:95%;">
-<p align="center" style="background:#001a00;padding:30px 0;line-height:3.6;">
-&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
+
 &nbsp;&nbsp;<a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
