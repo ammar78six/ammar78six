@@ -56,7 +56,7 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Blockchain-00ff41?style=for-the-badge&logo=blockchain-com&logoColor=logoColor=white&labelColor=004d00" />
 </p>
 <p align="center" style="background:#001a00;padding:30px 0;line-height:4.0;">
-&nbsp;&nbsp;<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
+
 &nbsp;&nbsp;<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://www.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
@@ -66,7 +66,8 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Digital_Marketing-00ff41?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=004d00" />
 </p>
 <hr style="border:5px dashed #00ff41;margin:80px 0;width:95%;">
-
+<p align="center" style="background:#001a00;padding:30px 0;line-height:3.6;">
+&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
