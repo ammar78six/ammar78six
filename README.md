@@ -46,6 +46,7 @@
 </p>
 <p align="center" style="background:#001a00;padding:30px 0;line-height:4.0;">
 
+&nbsp;&nbsp;<a href="https://laravel.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="105" height="105" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 16px;"/></a>
 &nbsp;&nbsp;<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
 &nbsp;&nbsp;<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="115" height="115" style="filter:brightness(0)invert(1)hue-rotate(90deg);margin:0 20px;"/></a>
